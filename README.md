@@ -45,7 +45,7 @@ I then added a slicer to show month by month breakdown and two areas to show the
 ## Conclusion
 The ratings information for the 12 month period is now visualised in the dashboard and clearly represented across a number of graphs that show how ratings are broken down across months and product categories. Individual factors, such as monthly averages and international shipping, and whether they affect the data is also illustrated throughout the dashboard. 
 
-## 
+
 [Reviews Project.xlsx](https://github.com/user-attachments/files/25154253/Reviews.Project.xlsx)
 [Project Overview.docx](https://github.com/user-attachments/files/25154254/Project.Overview.docx)
 
