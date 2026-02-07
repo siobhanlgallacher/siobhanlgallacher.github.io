@@ -1,4 +1,5 @@
-# siobhanlgallacher.github.io
+# Siobhan Gallacher
+## Portfolio
 ---
 Ratings Analysis Spreadsheet and Dashboard 
 ---
