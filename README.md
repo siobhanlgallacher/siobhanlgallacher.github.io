@@ -1,4 +1,4 @@
-[Portfolio Database.sql](https://github.com/user-attachments/files/25221920/Portfolio.Database.sql)[Portfolio Database.sql](https://github.com/user-attachments/files/25221918/Portfolio.Database.sql)# Siobhan Gallacher
+# Siobhan Gallacher
 ## Portfolio
 ---
 # **Project 1: Understanding Consumer Behavior and Target Audience using SQL and PowerBi**
@@ -138,7 +138,6 @@ The data collated here provides the business with insight as to how the consumer
 The data collected allows the business to better understand their customer base and provides them with insight which could be used for marketing or advertising decisions. This data also provides a basis for understanding where further analysis could be done, for example, we can see that returning customers rank low in the ‘Clothing’ product category yet it is second highest in revenue. Understanding this is important for future sales revenue so the business may decide to enable reviews and feedback going forward to allow for future analysis. The visualisation models also provide a better understanding with regards to consumer patterns and behavior relating to payment decisions. 
 
 ## Files
-
 
 
 
