@@ -1,4 +1,4 @@
-# Siobhan Gallacher
+[Portfolio Database.sql](https://github.com/user-attachments/files/25221920/Portfolio.Database.sql)[Portfolio Database.sql](https://github.com/user-attachments/files/25221918/Portfolio.Database.sql)# Siobhan Gallacher
 ## Portfolio
 ---
 # **Project 1: Understanding Consumer Behavior and Target Audience using SQL and PowerBi**
@@ -61,10 +61,83 @@ Total Analyytics: As a final view, I collected data showing the total number of 
 <img width="448" height="241" alt="Screenshot 2026-02-10 9 25 45 PM" src="https://github.com/user-attachments/assets/2a3820ac-d959-4424-b21b-ff30b33b4c90" />
 <img width="448" height="241" alt="Screenshot 2026-02-10 9 24 32 PM" src="https://github.com/user-attachments/assets/b08fe40f-d7af-4de2-b0c2-ecc1f3cfb1ce" />
 
+## PowerBi: Visualising Data
 
+To visualise the data collected, I created three dashboards within PowerBi.
 
+### *County Analytics* 
+The first dashboard displays a slicer and six graphs, helping the business understand gender, age range and location of the consumer
 
+* Average Customer Age By Country: A bar to clearly illustrate the ages
+* Average Purchase Amount by Country: A funnel graph which gives clarity on individual numbers and allows for comparison. 
+* Total Spend by Country: A pie chart which gives the business the ability to see individual country spend in comparison to the whole
+* Total Returning Customers by Country: A bar graph that allows for clarity in viewing individual numbers 
+* Total Customers per Country: A doughnut graph showing each country in relation to the total
+* Total Male and Female Customers per Country: A clustered bar graph which show clear comparison of genders
+* A slicer to filter by country
+  
+  <img width="1187" height="528" alt="Screenshot 2026-02-10 9 42 18 PM" src="https://github.com/user-attachments/assets/716e9dde-8fe0-4ab0-888d-b0df3cf999aa" />
 
+This dashboard provides the business with clear information with regards to their customer base in each country, allowing them to further understand their target market. They can now see age ranges and number of customers per gender, giving them clarity on their customer base and potentially how marketing should be adjusted across countries to engage with the target consumer. 
+* We can see that the UK has 50 female customers compared to 34 male and similarly, Canada also has more female customers, with a ratio of 42:38. However, in every other country, male customers outnumber females, as much as 33 females to 45 males in Germany. This illustrates how the customer base varies across different countries and this may need to factor into marketing and advertising approaches. 
+* The average customer age per country illustrates a similarity between countries, with 4 countries sharing an average age of 43. This allows the business to see who their key age demographic is in their target customer base.
+* Total and average spend per country recognises the US as the highest spending market. Combining this with the data from total customers per country, we can see that the highest number of customers also come from the US. Data from these sections could be used by the company to see the performance of marketing spend across countries and analyse ROI. 
+* From the Returning Customers graph, the business can see that Canada has the highest whilst Australia has the lowest number. This is interesting when combined with the data from ‘Total Customers’ as Canada is 5th out of the 6 countries, yet has the highest number of return consumers. Furthermore, Australia has the penultimate highest number of total customers yet ranks last in returning customers. The customer experience in Australia compared to Canada could then be further analysed by pulling data relating to reviews and ratings. 
+
+### *Product Analytics* 
+
+The second dashboard visualises data on the performance of individual product categories and further analyses the customer base within individual categories. 
+
+* Average Customer Age by Product Category: A bar chart to clearly display numbers
+* Total Spend per Product Category: A doughnut graph splitting categories into sections and displaying each segment in relation to the total spend
+* Average Spend by Product Category: A pie chart to show each category in relation to the total
+* Gender of Customers per Product Category: A clustered bar graph to allow for comparison of genders
+* Total Returning Customers per Product Category: A funnel graph allowing for easy viewing of individual numbers and comparison across categories
+* Total Customers per Country by Product Category: A clustered bar graph to show each category clearly, alongside the numbers for each country
+* A slicer for product category
+
+<img width="1228" height="525" alt="Screenshot 2026-02-10 9 46 58 PM" src="https://github.com/user-attachments/assets/3e911bea-6420-40b9-ace0-d3cdc63c4f7e" />
+
+This dashboard allows the business to easily see the data on performance of each product category and understand who their customer base is within each category.
+
+* Similar to ‘Average Age by Country,’ Average Age per Product Category shows similar numbers across the 6 countries. This gives the business a clear idea of age demographics        purchasing in each product category and who their target market is.
+* Total Spend per Product Category shows the business that ‘Home’ is bringing in the highest revenue whilst ‘Sports’ brings in the least. 
+* Average Spend per Product Category has the same first three product categories as Total Spend
+* Gender of Customers per Category shows whether males or females are the largest customer base per product category. We can see that male customers outnumber females in Sports,     Electronics and Books, whilst female customers purchase more in the Home and Clothing groups. 
+* Return Customers shows us that Home has the highest number (and has the highest total spend) whilst Clothing has the least. This is interesting as Clothing is the second highest   revenue. Also, Sports comes in second with returning customers but has the lowest total spend. Therefore, we can see that analysis relating to customer experience across           categories, and issues affecting this, needs to be done.
+* Total Spend per Product Category by Country shows us the performance of individual product categories. We can see that 4 of the 6 countries have different highest performing       categories, with only the US and Canada sharing Home as the highest revenue product group. In Australia, Electronics is most popular, whilst, in the UK, Sports receives the most   orders. India has Clothing as the top category and Germany has Books as most popular. This differentiation in consumer behavior is an important factor for the business to          consider when understanding their product performance and target consumer base across locations. 
+
+### *Payment Analytics* 
+
+To illustrate consumer behavior on the website with regards to payment, I created a dashboard displaying payment methods and device used analysis
+
+* Number of Cash Purchases by Country: A bar chart with data values to clearly show individual numbers
+* Number of Credit Card Purchases by Country: A column graph displaying clear figures per country
+* Number of Debit Card Purchases by Country; A bar chart to focus display exact numbers 
+* Number of Paypal Purchases by Country: A column graph displaying figures per country
+* Number of Desktop Purchases by Country: A pie chart to show number per country in relation to the total number 
+* Number of Mobile Purchases by Country: A doughnut graph to analyse each individual country compared to the total
+* Number of Tablet Purchases by Country: A pie chart which allows the viewer to compare values easily
+* A slicer for individual countries
+
+<img width="1238" height="524" alt="Screenshot 2026-02-10 9 53 16 PM" src="https://github.com/user-attachments/assets/aae242d3-2e6d-4897-b1b2-845887b5d145" />
+
+The data collated here provides the business with insight as to how the consumer chooses to make purchases, including preferred payment methods across countries and which device is most popular.
+* In the USA and India, Credit Cards are the most popular payment choice. It’s also joint top for the UK, alongside Debit Cards.
+* Debit Cards are the top choice of Germany and Canada but the least common choice in Australia
+* Cash isn’t the most popular choice in any country but it is the least popular in the USA and India
+* Most Australian customers are using PayPal but it ranks least popular for the UK and Canada. 
+* Overall, the highest number of purchases come from debit cards and the least from PayPal.
+* Mobile is the most common device used, with desktop being least common
+* In Canada, Desktop is used most often. However, it’s the least popular device in Germany, USA and India. 
+* In the USA, Australia and Germany, Mobile is the most common device used. In the UK, this device is least common
+* Tablets are used most in India and the UK but least in Australia and Canada. 
+
+## Conclusion
+
+The data collected allows the business to better understand their customer base and provides them with insight which could be used for marketing or advertising decisions. This data also provides a basis for understanding where further analysis could be done, for example, we can see that returning customers rank low in the ‘Clothing’ product category yet it is second highest in revenue. Understanding this is important for future sales revenue so the business may decide to enable reviews and feedback going forward to allow for future analysis. The visualisation models also provide a better understanding with regards to consumer patterns and behavior relating to payment decisions. 
+
+## Files
 
 
 
@@ -78,7 +151,7 @@ Excel Project
 
 The business has spreadsheet listing product review and rating information but needs this to be displayed in a clear, visualised way. Their reviews lack consistency, with numerous 1 star ratings and 5 star ratings. They want to clearly visualise their average review per product category and see any other factors which could affect review ratings.
 
-## Spreadsheet Overview
+### *Spreadsheet Overview*
 
 The raw spreadsheet has various columns that could be used to clarify and understand ratings. 
 First, I cleaned the data by checking for duplicates, adjusting column widths and checking data such as dates are formatted correctly. For clarity, I changed the ‘Total Sales’ and ‘Sales Price’ to a currency value.I then applied a filter as a means to sort information within the columns, and using this, I checked for any blanks or null values within the individual columns. 
@@ -93,16 +166,25 @@ To break down the data, I created an average rating by month as this could show 
 
 I then decided to create some columns relating to average rating across order value and quantity purchased that could later be visualised. I added a column separating purchase value into 6 categories: $0-99, 100-199, 200-299, 300-399, 400–499 and 500+ and created a joining column for average value for each category =AVERAGEIF(M2:M7395,"<100",N2:N7395.) I did the same for order quantity (1,2,3,4,5) and an average review score for each =AVERAGEIF(L2:L7395,"1",N2:N7395)
 
-## Pivot Tables
+<img width="1364" height="514" alt="Screenshot 2026-02-10 9 59 45 PM" src="https://github.com/user-attachments/assets/c37caf4b-5b21-4149-9e75-ddee50e77630" />
+<img width="1350" height="308" alt="Screenshot 2026-02-10 10 29 46 PM" src="https://github.com/user-attachments/assets/71a46525-822f-4dfd-a6b0-ea2ce44e71f8" />
+<img width="1366" height="258" alt="Screenshot 2026-02-10 10 29 58 PM" src="https://github.com/user-attachments/assets/bf96af31-dffe-412c-99bb-14f5759c4bf4" />
+
+
+### *Pivot Tables*
 To begin visualising the data, I created pivot tables to later be converted to graphs/charts on the dashboard. 
 Total number of reviews (count) per ratings category (excellent, good, average, poor, unsatisfactory
 Average review per month with a filter
 Average order per product category
 Average order per sales value range
 Average order by purchase quantity 
-Average review with/without international shipping
+Average review with and without international shipping
 
-## Dashboard
+<img width="1358" height="534" alt="Screenshot 2026-02-10 10 34 00 PM" src="https://github.com/user-attachments/assets/6f7985eb-43e9-4a7b-876a-beacbf1ed22f" />
+
+
+
+### *Dashboard*
 To visualise the data, I converted the pivot tables into charts and graphs. 
 For the total reviews per rating category, I created a pie chart as this visualises the data as a percentage of a whole, allowing the user to see the exact percentage breakdowns and the relationship of the individual rating to the whole. 
 I also created a bar graph showing the total number of reviews per rating category to clearly show the numbers of each individual amount and allow this to be broken down by month using a slicer. 
@@ -112,12 +194,15 @@ I also chose a bar chart for a graph showing reviews with and without internatio
 For the final graph, I created a line graph for average review per purchase quantity.
 I then added a slicer to show month by month breakdown and two areas to show the total number of reviews for the year and average review for the year.
 
+<img width="801" height="431" alt="Screenshot 2026-02-10 10 35 22 PM" src="https://github.com/user-attachments/assets/b9d4526d-85b2-4e85-8170-3d3e5e0eed6a" />
+
+
 
 ## Conclusion
 The ratings information for the 12 month period is now visualised in the dashboard and clearly represented across a number of graphs that show how ratings are broken down across months and product categories. Individual factors, such as monthly averages and international shipping, and whether they affect the data is also illustrated throughout the dashboard. 
 
+[Portfolio Project- Reviews Spreadsheet.xlsx](https://github.com/user-attachments/files/25221699/Portfolio.Project-.Reviews.Spreadsheet.xlsx)
 
-[Reviews Project.xlsx](https://github.com/user-attachments/files/25154253/Reviews.Project.xlsx)
 [Project Overview.docx](https://github.com/user-attachments/files/25154254/Project.Overview.docx)
 
 
