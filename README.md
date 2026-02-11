@@ -140,9 +140,9 @@ The data collated here provides the business with insight as to how the consumer
 The data collected allows the business to better understand their customer base and provides them with insight which could be used for marketing or advertising decisions. This data also provides a basis for understanding where further analysis could be done, for example, we can see that returning customers rank low in the ‘Clothing’ product category yet it is second highest in revenue. Understanding this is important for future sales revenue so the business may decide to enable reviews and feedback going forward to allow for future analysis. The visualisation models also provide a better understanding with regards to consumer patterns and behavior relating to payment decisions. 
 
 ## Files
-PortfolioCustomerDatabase.sqlite 
-Portfolio_SQL_Queries.sql 
-Portfolio_Database_Schema.sql 
+[SQL Database](PortfolioCustomerDatabase.sqlite)
+[SQL Queries](Portfolio_SQL_Queries.sql)
+[SQL Schema](Portfolio_Database_Schema.sql)
 
 
 
