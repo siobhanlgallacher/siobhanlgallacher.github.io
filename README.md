@@ -39,15 +39,17 @@ I counted the number of purchases made with cash, credit card, debit card and Pa
 ### *Purchase Amounts*
 I looked at the average purchase amount per individual product category. Then, to be able to use the data from the two tables, I then joined the Customer and Product tables together. This allowed me to find total and average purchase value per country. In addition, I looked at the total spend by each individual product category per country. 
 
-<img width="337" height="287" alt="Screenshot 2026-02-10 9 07 52 PM" src="https://github.com/user-attachments/assets/427f6f10-2af5-4c8e-9aa1-5727c8e6c3bb" />
-<img width="291" height="287" alt="Screenshot 2026-02-10 9 09 03 PM" src="https://github.com/user-attachments/assets/5651ad2b-9e1b-446f-ba40-c481dc79017a" />
-<img width="291" height="287" alt="Screenshot 2026-02-10 9 09 30 PM" src="https://github.com/user-attachments/assets/67e4a1fd-0f0b-4238-9d38-e398fcd2171c" />
-<img width="291" height="287" alt="Screenshot 2026-02-10 9 10 08 PM" src="https://github.com/user-attachments/assets/33e417fe-0362-4fb3-9f14-32c6e80b776a" />
+<img width="679" height="210" alt="Screenshot 2026-02-10 9 25 21 PM" src="https://github.com/user-attachments/assets/cb7f0fcb-3be9-432c-aabd-33c56399d259" />
+<img width="512" height="342" alt="Screenshot 2026-02-10 9 09 03 PM" src="https://github.com/user-attachments/assets/c737473b-eca7-4aa9-918c-78ceb2cb6525" />
+<img width="520" height="344" alt="Screenshot 2026-02-10 9 09 30 PM" src="https://github.com/user-attachments/assets/5e1cf2b1-c17e-4900-8a57-c474be350d02" />
+<img width="531" height="331" alt="Screenshot 2026-02-10 9 10 08 PM" src="https://github.com/user-attachments/assets/2e922e36-e7ae-4553-8dc7-3b48fbecaebd" />
+
 
 ### *Returning Customers*
 To analyse customer return rates, I counted the number of return customers per product category and the total per country. 
+<img width="552" height="333" alt="Screenshot 2026-02-10 9 15 42 PM" src="https://github.com/user-attachments/assets/1bccc7d9-fd0a-4698-81fc-73f189fa90a9" />
 
-<img width="337" height="287" alt="Screenshot 2026-02-10 9 15 42 PM" src="https://github.com/user-attachments/assets/a01dc0e5-1aa2-4abc-a4e9-e0c16909ccd4" />
+
 
 ### *SQL Views* 
 Country Analysis: This view collated data showing average age, total spend, average spend and number of returning customers per country. 
@@ -59,7 +61,7 @@ Total Analyytics: As a final view, I collected data showing the total number of 
 <img width="448" height="244" alt="Screenshot 2026-02-10 9 25 01 PM" src="https://github.com/user-attachments/assets/bb3850ff-a0e7-46b2-a859-2255eb7f0ba6" />
 <img width="448" height="210" alt="Screenshot 2026-02-10 9 25 21 PM" src="https://github.com/user-attachments/assets/285aecce-5326-4cc2-8c95-e98def5a0e3d" />
 <img width="448" height="241" alt="Screenshot 2026-02-10 9 25 45 PM" src="https://github.com/user-attachments/assets/2a3820ac-d959-4424-b21b-ff30b33b4c90" />
-<img width="448" height="241" alt="Screenshot 2026-02-10 9 24 32 PM" src="https://github.com/user-attachments/assets/b08fe40f-d7af-4de2-b0c2-ecc1f3cfb1ce" />
+<img width="248" height="241" alt="Screenshot 2026-02-10 9 24 32 PM" src="https://github.com/user-attachments/assets/b08fe40f-d7af-4de2-b0c2-ecc1f3cfb1ce" />
 
 ## PowerBi: Visualising Data
 
