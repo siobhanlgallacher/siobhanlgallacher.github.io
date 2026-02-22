@@ -209,7 +209,8 @@ The second dashboard visualises data on the performance of individual product ca
 * Total Customers per Country by Product Category: A clustered bar graph to show each category clearly, alongside the numbers for each country
 * A slicer for product category
 
-<img width="1228" height="525" alt="Screenshot 2026-02-10 9 46 58 PM" src="https://github.com/user-attachments/assets/3e911bea-6420-40b9-ace0-d3cdc63c4f7e" />
+<img width="1021" height="520" alt="Screenshot 2026-02-22 12 48 04 PM" src="https://github.com/user-attachments/assets/c6388c06-50be-455d-814e-2c6cbda347df" />
+
 
 This dashboard allows the business to easily see the data on performance of each product category and understand who their customer base is within each category.
 
