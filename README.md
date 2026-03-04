@@ -1,4 +1,23 @@
 # Siobhan Gallacher
+
+Hello, my name is Siobhan Gallacher, a aspiring data analyst, looking to combine the skills gained throughout my previous work experience with the technical skills in **Excel**, **SQL** and **Power Bi.** 
+
+I’m really passionate about using data to provide insights, improve processes, and help businesses within their decision making. I really enjoy analysing data and being able to solve problems, find answers, and tell a story through the information. I’m a process driven person and I like being able to start with a question and work towards a solution. Being able to see a process from start to completion, and think in detail about why something is happening, is something I would look forward to in a role.  
+
+For the past 6 years, I have worked as an ESL (English as a Second Language) Tutor, a role in which I have gained experience in speaking with students from across the world.  
+
+**Communication:** The role has strengthened my active listening skills and ability to present complex information in a clear, concise way.  
+
+**Presentation and Adaptability:** In speaking with students of all ages with difference learning goals, I have developed experience in adapting my communication style, presenting information and understanding requirements: skills which I believe would be beneficial in stakeholder management, presenting insights and report writing.  
+
+**Monitoring Progress:** I take a very process driven approach to my work, and by analysing student progress, I identify a plan and prepare lessons.  
+
+**Identifying Patterns:** It’s also important for me to identify patterns and provide feedback: skills which would be transferable to explaining insights, trend analysis, and data tracking. Often, I need to think about why something is happening and create an approach moving forward.  
+
+I look forward to using data insights to provide actionable steps that ensure company success and interpreting data to assist with business decision making.
+
+
+
 ## Portfolio
 ---
 # **Project 1: Customer Churn using Excel and Power Bi**
