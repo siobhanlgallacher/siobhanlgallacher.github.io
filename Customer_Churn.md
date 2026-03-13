@@ -2,20 +2,27 @@
 
 ***Excel and PowerBi Project***
 
-<img width="945" height="533" alt="Screenshot 2026-02-20 11 48 47 PM" src="https://github.com/user-attachments/assets/0a323ff2-0fc8-4e66-bb50-67d1f0c4eb29" />
-
-
 ## Business Problem
 A business with a subscription-based service wants to see their customer churn from the last three years and understand the potential causes of customer loss.
-
-## Analysing the Data
-Upon reviewing the data, I can see a column for the type of subscription plan, customer start date, months as a customer, churn (yes/no), average weekly usage and number of support tickets. This data can be utilised to answer questions such as:
+Within the data, I want to explore:
 * How many customers have churned across the total 3 year period?
 * How many customers have churned per month?
 * How does weekly usage affect churn rate?
 * How does the number of support tickets impact churn rate?
 * How does the churn rate change across subscription type?
 * How does duration as a customer impact churn rate, and when does churn typically happen?
+
+## Key Insights 
+Since June 2025, Customer Churn has been consistently falling, with the 
+churn rate in 2025 falling from 5.27% to 0.84%. As of December 2025, 
+churn is at the lowest rate across the 3 year period. 
+
+
+
+
+
+
+
 
 ## Excel 
 ***Data Cleaning and Formatting***
@@ -90,12 +97,6 @@ To visualise the data collected, I created a dashboard within PowerBi.
 ## Conclusion
 
 The data shows that the churn rate increased in 2023 but fell in 2024 and 2025, with December 2025 having the lowest number of churned customers. The Premium plan has the highest number of customers in total but it also has the highest churn, whilst Standard has the highest number of active customers at present and the lowest churn overall. The data also suggests that more customers churn with 5+ support tickets and Premium has the most support tickets overall. Churn happened the most in months 3, 6 and 9 but, in 2025, it occurred the most in month 12. I would assume that, potentially, in years 2023 and 2024, the subscription length was 3, 6 or 9 months and perhaps this changed in 2025. Alternatively, there might have been a discount on 12 month plans. Across the 3 years, customers with a weekly usage of 1-5 hours churn the most but those with 20-25 hours churn second most.
-
-## Actionable Steps
-
-Based on the data, we can see that the Premium plan has the highest churn rate and that churn happens most frequently in month two. We can see that the Premium plan has a high number of support tickets overall and a high number of customers with 6+ tickets. To prevent this high churn rate and early churn, it’s important to bring down the number of support tickets and also do further analysis into what specifically is happening in month two. With a higher monthly fee, it could be the case that customers are more likely to churn early, so ensuring customer satisfaction is important, especially in the early months when churn is happening the most. I would suggest that enabling customer ratings or creating a ‘reason for exit’ questionnaire would also help understand the reasons for churn in month two.
-In the latest data, churn happens the most in month 12 so perhaps introducing a discount for renewal in this month would bring this figure down.
-We also see that churn happens the most within customers falling into the 1-5 hours of weekly usage category, therefore encouraging customer usage is important to bringing churn figures down. Notifications, emails, new features and a personalised service could all help to increase usage. 
 
 
 
