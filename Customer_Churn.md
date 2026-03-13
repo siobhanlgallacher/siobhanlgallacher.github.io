@@ -17,16 +17,9 @@ Within the data, I want to explore:
 
 
 ## Key Insights 
-Since June 2025, Customer Churn has been consistently falling, with the 
-churn rate in 2025 falling from 5.27% to 0.84%. As of December 2025, 
-churn is at the lowest rate across the 3 year period. 
-
-
-
-
-
-
-
+![Report1](Report_1.png) 
+![Report2](Report_2.png) 
+![Report3](Report_3.png) 
 
 ## Excel 
 ***Data Cleaning and Formatting***
@@ -61,7 +54,7 @@ To visualise the data collected, I created a dashboard within PowerBi.
 * Churned Customers by Weekly Usage: In excel, I grouped the average hours into ranges for easier visualisation. I presented the data in a bar graph to show the comparison between ranges and present the effect of usage on whether a customer will churn
 * I also have three cards: Active Customers, Churned Customers, Total Customers. These cards show the number of customers and both the active and churned cards change to when using the slicers. 
 
-## Data Insights 
+## In Depth Data Insights 
 
 ***Churn Rate by Month***
 * Across the overall data range, the churn rate has been falling consistently since June 2025. The highest churn was between February 2023 and March 2023.
@@ -80,27 +73,29 @@ To visualise the data collected, I created a dashboard within PowerBi.
 * Premium has the lowest churn in 2025 but numbers are very similar across the three plans. 
 
 ***Churned Customers by Number of Support Tickets***
-* When looking at the data as a whole, and the years 2023 and 2024 individually, customer churn happens most frequently in customers with 6 support tickets. 
-* In the overall data, high numbers of customers churn with 6-8 tickets, yet in 2025 alone, churn actually decreases after 6 tickets. 
-* By subscription plan, the Premium plan has the highest total tickets and the highest number of customers with 8 tickets. Premium also has the most customers with 6,7 and 8 tickets combined. This could explain why Premium has a higher churn rate.
+* In 2023 and 2024, the highest percentage of churn happens in customers with 6 support tickets but in 2024 it happens frequently at 8 tickets. 2025 shows both 1 and 5 tickets to have the highest percentage. 
+* In the overall data, high numbers of customers churn with 6 tickets. 
+* By subscription plan, the basic plan has the highest amount of churn at 6 and 7 tickets, standard at 6 tickets and Premium at 8. 
 
 ***Churned Customers by Months as a Customer***
 * Overall, churn happens the most in months 3, 6 and 9
 * In 2023, it happened most in month 2 but gradually dropped after month 6. Month 2 is highest for Basic and Premium but Month 3 is highest for Standard.
 * In 2024, occurred most in months 3,6,9. Basic is highest in month 6, Premium in month 3 and Standard in month 9.
-* In 2025, churn happened most in month 12 and the data shows an almost-consistent upward trend throughout the year. Looking at plan type, Premium is highest in month 12 but Basic and Standard are actually highest in month 11
+* In 2025, churn happened most in month 11 and the data shows an almost-consistent upward trend throughout the year. Looking at plan type, Premium is highest in month 12 but Basic and Standard are actually highest in month 11
 * Across the 3 years, most Basic customers are lost in month 6, Premium in month 3 and Standard in month 9. 
 
+
 ***Churned Customers by Average Weekly Usage***
-* Across the 3 years, customers with a weekly usage of 1-5 hours churn the most but those with 20-25 hours (the highest quantity represented) churn second most.
+* Across the 3 years, customers with a weekly usage of 1-5 hours have the highest churn percentage
 * In 2023, most customer churn is at 15-20 hours of usage. 
 * In 2024, churn is highest in customers using the service between 1-5 hours
 * In 2025, customers using the service between 20-25 hours per week on average have the highest churn
-* Plan type by individual year shows a similar lack of pattern. The basic plan does show 1-5 hours with highest churn in 2023 and 2024, and 10-15 hours in 2025, suggesting churn in the basic plan happens most with customers using the service for a small amount of time per week. In both, Standard and Premium 1-5 hours is the highest or second highest in almost all years.
+* Analysing plan type, the most Basic plan customers are using the platform for 20-15 hours per week but this has the highest churn, with 22% of subscribers leaving. For Standard users, 21% of customers that use the service for 1-5 hours and 15-20 hours exit. Premium subscribers show a high percentage of churn at 1-5 hours. 
+
 
 ## Conclusion
 
-The data shows that the churn rate increased in 2023 but fell in 2024 and 2025, with December 2025 having the lowest number of churned customers. The Premium plan has the highest number of customers in total but it also has the highest churn, whilst Standard has the highest number of active customers at present and the lowest churn overall. The data also suggests that more customers churn with 5+ support tickets and Premium has the most support tickets overall. Churn happened the most in months 3, 6 and 9 but, in 2025, it occurred the most in month 12. I would assume that, potentially, in years 2023 and 2024, the subscription length was 3, 6 or 9 months and perhaps this changed in 2025. Alternatively, there might have been a discount on 12 month plans. Across the 3 years, customers with a weekly usage of 1-5 hours churn the most but those with 20-25 hours churn second most.
+The data shows that the churn rate increased in 2023 but fell in 2024 and 2025, with December 2025 having the lowest number of churned customers. The Premium plan has the highest number of customers in total but it also has the highest churn, whilst Standard has the highest number of active customers at present and the lowest churn overall. The data also suggests that more customers churn with 6+ support tickets and Premium has the most support tickets overall. Churn happened the most in months 3, 6 and 9 but, in 2025, it occurred the most in month 11. I would assume that, potentially, in years 2023 and 2024, the subscription length was 3, 6 or 9 months and perhaps this changed in 2025. Alternatively, there might have been a discount on 12 month plans. Across the 3 years, customers with a weekly usage of 1-5 hours churn the most.
 
 
 
