@@ -4,7 +4,7 @@ Hello, my name is Siobhan Gallacher, a aspiring data analyst, looking to combine
 
 
 ## My Projects
-- [Customer Churn Analysis] (customer_churn.md) 
+- [Customer Churn Analysis] (Customer_Churn.md)
 
 ## About Me
 
