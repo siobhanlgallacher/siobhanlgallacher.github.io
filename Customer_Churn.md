@@ -2,6 +2,7 @@
 
 ***Excel and PowerBi Project***
 
+![Dashboard](Customer_Churn_Dashboard.png)
 ## Business Problem
 A business with a subscription-based service wants to see their customer churn from the last three years and understand the potential causes of customer loss.
 Within the data, I want to explore:
@@ -11,6 +12,9 @@ Within the data, I want to explore:
 * How does the number of support tickets impact churn rate?
 * How does the churn rate change across subscription type?
 * How does duration as a customer impact churn rate, and when does churn typically happen?
+
+
+
 
 ## Key Insights 
 Since June 2025, Customer Churn has been consistently falling, with the 
