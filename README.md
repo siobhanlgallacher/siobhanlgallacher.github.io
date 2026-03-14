@@ -5,7 +5,8 @@ Hello, my name is Siobhan Gallacher, a aspiring data analyst, looking to combine
 
 ## My Projects
 - [Customer Churn Analysis](Customer_Churn.md)
-- [Consumer Behaviour](Consumer_Behaviour.md) 
+- [Consumer Behaviour](Consumer_Behaviour.md)
+- [Reviews Analysis](Reviews_Analysis.md) 
 
 ## About Me
 
