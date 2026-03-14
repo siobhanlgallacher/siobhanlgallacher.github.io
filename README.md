@@ -5,6 +5,7 @@ Hello, my name is Siobhan Gallacher, a aspiring data analyst, looking to combine
 
 ## My Projects
 - [Customer Churn Analysis](Customer_Churn.md)
+- [Consumer Behaviour](Consumer_Behaviour.md) 
 
 ## About Me
 
@@ -78,7 +79,7 @@ Country Analysis: This view collated data showing average age, total spend, aver
 Payment and Device Used: Data in this table showed the number of purchases per payment method and per device used. 
 Product Analytics: Focusing on product category, this view displayed data total spend, average spend, average age, gender and returning customers per product category. 
 Country and Product Analytics: To display data showing the number of purchases per product category by country, I created a separate view. 
-Total Analyytics: As a final view, I collected data showing the total number of customers and gender by country. 
+Total Analytics: As a final view, I collected data showing the total number of customers and gender by country. 
 
 <img width="448" height="244" alt="Screenshot 2026-02-10 9 25 01 PM" src="https://github.com/user-attachments/assets/bb3850ff-a0e7-46b2-a859-2255eb7f0ba6" />
 <img width="448" height="210" alt="Screenshot 2026-02-10 9 25 21 PM" src="https://github.com/user-attachments/assets/285aecce-5326-4cc2-8c95-e98def5a0e3d" />
