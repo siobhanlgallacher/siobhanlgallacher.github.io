@@ -17,9 +17,9 @@ Within the data, I want to explore:
 
 
 ## Key Insights 
-![Report1](Report_1.png) 
-![Report2](Report_2.png) 
-![Report3](Report_3.png) 
+![Report1](1.png)
+![Report2](2.png) 
+![Report3](3.png) 
 
 ## Excel 
 ***Data Cleaning and Formatting***
